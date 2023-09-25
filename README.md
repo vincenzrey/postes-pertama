@@ -1,4 +1,5 @@
 # postes-pertama
+#tugas postes pertama Vincemnz Reynrd Citro
 while True:
 # saya menggunakan while true agar saat user salah menginput nama nim kelas dan asal sekolah maka akan kembali ke input
     user = input("masukkan username: ")
