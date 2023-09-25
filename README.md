@@ -45,3 +45,6 @@ while True:
         print("input salah")
 
   
+[postes pertama.drawio.pdf](https://github.com/vincenzrey/postes-pertama/files/12715953/postes.pertama.drawio.pdf)
+![Screenshot 2023-09-25 215838](https://github.com/vincenzrey/postes-pertama/assets/144880422/4a176353-8cf3-4dcb-96f2-fa2b37786e83)
+
