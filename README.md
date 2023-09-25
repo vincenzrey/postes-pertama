@@ -47,7 +47,8 @@ while True:
         print("input salah")
 
   
-![image](https://github.com/vincenzrey/postes-pertama/assets/144880422/e9dea1e7-a2db-4bc3-a8d5-3777404f94dc)
+![Diagram Tanpa Judul](https://github.com/vincenzrey/postes-pertama/assets/144880422/76155d64-9003-4f16-a8ee-bfdf28df59c1)
+
 
 ![Screenshot 2023-09-25 215838](https://github.com/vincenzrey/postes-pertama/assets/144880422/4a176353-8cf3-4dcb-96f2-fa2b37786e83)
 
