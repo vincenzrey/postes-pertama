@@ -1,7 +1,8 @@
 # postes-pertama
-#tugas postes pertama Vincemnz Reynrd Citro
+# postes pertama Vincenz Reynard Citro 
+
 while True:
-# saya menggunakan while true agar saat user salah menginput nama nim kelas dan asal sekolah maka akan kembali ke input
+#saya menggunakan while true agar saat user salah meng input username, nim, kelas, asal sekolah maka akan kembali ke input biodata
     user = input("masukkan username: ")
     nim = input("masukkan nim: ")
     kelas = input("masukan kelas: ")
